@@ -1,2 +1,4 @@
-# tf2scripts
-Collection of scripts I use for tf2
+### To install
+
+1. Drop the files into C:/windows/Program Files (x86)/SteamApps/common/team fortress 2/tf/cfg  
+
